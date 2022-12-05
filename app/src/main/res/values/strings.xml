@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="book_cover">Book cover</string>
+    <string name="clear_search">Clear search</string>
+    <string name="search">Search</string>
+    <string name="weight_label">Weight:</string>
+    <string name="fail_msg">Error occurred</string>
+</resources>
